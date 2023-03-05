@@ -10,7 +10,7 @@
 
 <p align="center">
   <div>
-    <img src="images\去码头整点薯条.jpg" width="200" height="200" >
+    <img src="images\去码头整点薯条.jpg" width="500" height="500" >
   </div>
 
 
